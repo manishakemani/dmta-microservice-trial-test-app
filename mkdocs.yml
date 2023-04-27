@@ -1,0 +1,8 @@
+site_name: "trialapp"
+site_description: "this is sample dmta app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
